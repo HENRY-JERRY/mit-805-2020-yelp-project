@@ -7,11 +7,11 @@ In this project, map reduce and data science techniques were used to analyse and
 - The data set is publicly available and can be downloaded at https://www.yelp.com/dataset/download
 - The Yelp's data agreement document can be found in this repo in a pdf format.
 
-# Research questions
-- 1
-- 2
-- 3
-- 4
-- 5
-  
+# Project Objective
+Work in this project will involve use exploratory data analysis, texting mining and Geospatial  analysis  techniques  to  critically  investigate  business  reviews  and  theirlikely  impact  on  businesses.   In  order  to  achieve  this  main  objective,  this  workintends to explore the following:
+ - Top or most loved businesses, their locations and categories.
+ - Commonly used words in reviews.
+ - Sentiment analysis in business reviews
 
+# Report
+A comprehensive report about this project is available at https://www.overleaf.com/read/gpwmtypqcfbg
