@@ -28,7 +28,7 @@ Reviews play  an  important  role  in  building  the  credibility  of  the  busi
 # Use cases
 - Results of this project can be used to promote and improve customer reviews.  
 - This work can also be used improve the quality of goods and services.  
-- The negative and positive words found in the reviews can inform businesses about which aspect of the their business need.
+- The negative and positive words found in the reviews can inform businesses about which aspect of the their business need to improve.
 
 # Reports
 Comprehensive reports about this project are available at:
